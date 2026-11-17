@@ -5,17 +5,17 @@ Segala bentuk pertanggungjawaban mengenai orisinalitas penelitian dikembalikan k
 
 ## Struktur Direktori
 /
-= Nama_Lengkap_Mahasiswa
-== README.md
-== paper
-=== article.tex
-=== article.bib
-=== article.docx
-=== article.pdf
-=== image.png
-== src
-== results
-== datasets.md
+└── Nama_Lengkap_Mahasiswa
+    ├── README.md
+    ├── paper
+    │   ├── article.tex
+    │   ├── article.bib
+    │   ├── article.docx
+    │   ├── article.pdf
+    │   └── image.png
+    ├── src
+    ├── results
+    └── datasets.md
 
 ### Penjelasan Isi Direktori
 1. Setiap mahasiswa meng-clone git repo ini kemudian menambahkan folder dengan nama lengkap masing-masing.
