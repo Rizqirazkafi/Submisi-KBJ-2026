@@ -28,3 +28,6 @@ Segala bentuk pertanggungjawaban mengenai orisinalitas penelitian dikembalikan k
 
 1. Direktori "results" berisi hasil penelitian, dapat berupa tabel dan/atau gambar yang disertai penjelasan singkat mengenai hasil penelitian tersebut.
 1. File "datasets.md" berisi url dari setiap dataset yang digunakan pada penelitian.
+
+### Metode submisi 
+Clone -> Add -> Commit -> Pull Request
