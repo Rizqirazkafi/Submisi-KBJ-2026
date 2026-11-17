@@ -4,6 +4,7 @@ Repositori ini merupakan tempat untuk mengunggah hasil penelitian berupa draft p
 Segala bentuk pertanggungjawaban mengenai orisinalitas penelitian dikembalikan ke author.
 
 ## Struktur Direktori
+```text
 /
 └── Nama_Lengkap_Mahasiswa
     ├── README.md
@@ -16,6 +17,7 @@ Segala bentuk pertanggungjawaban mengenai orisinalitas penelitian dikembalikan k
     ├── src
     ├── results
     └── datasets.md
+```
 
 ### Penjelasan Isi Direktori
 1. Setiap mahasiswa meng-clone git repo ini kemudian menambahkan folder dengan nama lengkap masing-masing.
