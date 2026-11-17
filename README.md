@@ -24,12 +24,12 @@ Segala bentuk pertanggungjawaban mengenai orisinalitas penelitian dikembalikan k
 1. README.md berisi Nama Lengkap, NIM, judul, abstract, dan keyword.
 1. Direktory "paper" berisi file mentah paper (tex, bib, png) serta hasil cetak paper berupa file pdf.
 1. Direktori "src" berisi source code dari penelitian.
+1. Direktori "results" berisi hasil penelitian, dapat berupa tabel dan/atau gambar yang disertai penjelasan singkat mengenai hasil penelitian tersebut.
+1. File "datasets.md" berisi url dari setiap dataset yang digunakan pada penelitian.
+
 > Disarankan menggunakan docker dengan menyertakan Dockerfile,nix-flake, atau devenv agar lebih mudah di replikasi untuk memastikan reproducibility penelitian.
 
 > Apabila tidak menyertakan, diwajibkan memberikan detail berupa versi library, framework, dan bahasa pemrograman yang dipakai di akhir README.md
-
-1. Direktori "results" berisi hasil penelitian, dapat berupa tabel dan/atau gambar yang disertai penjelasan singkat mengenai hasil penelitian tersebut.
-1. File "datasets.md" berisi url dari setiap dataset yang digunakan pada penelitian.
 
 ### Metode submisi 
 Clone -> Add -> Commit -> Pull Request
