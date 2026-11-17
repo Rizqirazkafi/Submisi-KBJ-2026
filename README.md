@@ -1,7 +1,7 @@
 # Submisi-KBJ-2026
 Repositori ini merupakan tempat untuk mengunggah hasil penelitian berupa draft paper, source code, dataset, dan aspek pendukung lainnya sebagai bentuk pertanggungjawaban mahasiswa S2 Departemen Informatika pada mata kuliah Komputasi Berbasis Jaringan (KBJ) Institut Teknologi Sepuluh Nopember (ITS) Semester 1 2026.
 
-Segala bentuk pertanggungjawaban mengenai orisinalitas penelitian dikembalikan ke author.
+**!!Segala bentuk pertanggungjawaban mengenai orisinalitas penelitian dikembalikan ke author.!!**
 
 ## Struktur Direktori
 ```text
