@@ -6,7 +6,7 @@ This repository is a place for uploading research results in the form of paper d
 ## Struktur Direktori
 ```text
 /
-└── Student's_Full_Name
+└── NRP_FullName
     ├── README.md
     ├── LICENSE
     ├── paper
@@ -21,8 +21,8 @@ This repository is a place for uploading research results in the form of paper d
 ```
 
 ### Directory Explanation
-1. Each student clone this repo then add a folder with each student full name.
-1. README.md contains full name, NIM, title, abstract, and keywords, and license scope.
+1. Each student clone this repo then add a folder with each student's ID and full name.
+1. README.md contains full name, NRP, title, abstract, and keywords, and license scope.
 1. "LICENSE" contains the license of the source code and the paper. LICENSE should be fall under either on the [Open Source Software](https://opensource.org/osd), [Free Software](https://www.gnu.org/philosophy/free-sw.html), or [Creative Common](https://creativecommons.org/cc-license-guidance/) specification.
 1. "paper" directory contains raw paper file (tex, bib, png, docx) as well as pdf file of the paper.
 1. "src" contains source code of the research.
