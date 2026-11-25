@@ -1,12 +1,12 @@
 # Submisi-KBJ-2026
-Repositori ini merupakan tempat untuk mengunggah hasil penelitian berupa draft paper, source code, dataset, dan aspek pendukung lainnya sebagai bentuk pertanggungjawaban mahasiswa S2 Departemen Informatika pada mata kuliah Komputasi Berbasis Jaringan (KBJ) Institut Teknologi Sepuluh Nopember (ITS) Semester 1 2026.
+This repository is a place for uploading research results in the form of paper draft, source code, dataset(s), and other supporting aspect as a form of accountability for Informatics Department Master's student in Network Centric Computation lecture class of Institut Teknologi Sepuluh Nopember (ITS).
 
-**!!Segala bentuk pertanggungjawaban mengenai orisinalitas penelitian dikembalikan ke author.!!**
+**!!Any form of accountability regarding the originality of the research is on the author!!**
 
 ## Struktur Direktori
 ```text
 /
-└── Nama_Lengkap_Mahasiswa
+└── Student's_Full_Name
     ├── README.md
     ├── paper
     │   ├── article.tex
@@ -19,17 +19,18 @@ Repositori ini merupakan tempat untuk mengunggah hasil penelitian berupa draft p
     └── datasets.md
 ```
 
-### Penjelasan Isi Direktori
-1. Setiap mahasiswa meng-clone git repo ini kemudian menambahkan folder dengan nama lengkap masing-masing.
-1. README.md berisi Nama Lengkap, NIM, judul, abstract, dan keyword.
-1. Direktory "paper" berisi file mentah paper (tex, bib, png) serta hasil cetak paper berupa file pdf.
-1. Direktori "src" berisi source code dari penelitian.
-1. Direktori "results" berisi hasil penelitian, dapat berupa tabel dan/atau gambar yang disertai penjelasan singkat mengenai hasil penelitian tersebut.
-1. File "datasets.md" berisi url dari setiap dataset yang digunakan pada penelitian.
+### Directory Explanation
+1. Each student clone this repo then add a folder with each student full name.
+1. README.md containt full name, NIM, title, abstract, and keywords.
+1. "paper" directory containt raw paper file (tex, bib, png, docx) as well as pdf file of the paper.
+1. "src" containt source code of the research.
+1. "results" containt the research result(s), can be in the form of table and/or picture complete with brief explanation of the research result(s).
+1. "datasets.md" containt url(s) from each dataset(s) that is used in the research.
 
-> Disarankan menggunakan docker dengan menyertakan Dockerfile,nix-flake, atau devenv agar lebih mudah di replikasi untuk memastikan reproducibility penelitian.
+> It is recommended to use some kind of dependency management system (Docker, nix-flake, or devenv) for easier research replication and reproducibility.
 
-> Apabila tidak menyertakan, diwajibkan memberikan detail berupa versi library, framework, dan bahasa pemrograman yang dipakai di akhir README.md
+> If the above are not included, it is required for the student to give details in the form of library, framework, and programming language version that is used at the end of the "README.md" file.
 
-### Metode submisi 
+### Submission Method
 Clone -> Add -> Commit -> Pull Request
+
